@@ -1,4 +1,4 @@
-#Spectre gate
+Spectre gate
 --
 SpectreGate is an action based on the ["Greatest Kick & Snare Gate Trick Ever!"](https://www.youtube.com/watch?v=kVYmNTgMyww) Tutorial Tuesday by SpectreSoundStudios.
 
