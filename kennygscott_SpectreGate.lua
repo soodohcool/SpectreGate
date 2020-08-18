@@ -18,7 +18,7 @@ function F_ckYouGlenn()
     reaper.Main_OnCommand(40062, 0);
     -- Deselect all tracks
     reaper.Main_OnCommand(40289, 0);
-    -- Goto select the duplicated track
+    -- Select the duplicated track
     reaper.Main_OnCommand(40287, 0);
     -- Get track ID
     local id = reaper.GetSelectedTrack(0, 0);
